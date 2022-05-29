@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb64148d-2d86-40bb-a510-dff34622c820": {
+      "ProjectGuid": "eb64148d-2d86-40bb-a510-dff34622c820",
+      "DisplayName": "WPFDataBinding",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
